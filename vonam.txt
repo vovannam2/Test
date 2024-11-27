@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 vonam
->>>>>>> Branch_vonam
 ducdung
